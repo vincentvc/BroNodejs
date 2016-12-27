@@ -1,0 +1,3 @@
+var CONSTANT = {
+	 CONSTANT : 'CONSTANT'
+};
